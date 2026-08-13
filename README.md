@@ -83,7 +83,7 @@ The dashboard highlights several patterns within the dataset:
 
 * `SPEEDING_OFFENCES_TABLEAU_DASHBOARD.twbx` — Packaged Tableau workbook
 * `SPEEDING_OFFENCES_DATASET.zip` — Compressed original dataset
-* `Tableau-dashboard.png` — Dashboard preview
+* `Tableau_dashboard.png` — Dashboard preview
 
 ## Project Outcome
 
